@@ -1,1 +1,2 @@
-1
+Cliente: Roberto| Produto Comprado: TV| Quantidade: 2| Preço total: R$1579.98
+Cliente: Gabriel| Produto Comprado: KitKat| Quantidade: 10| Preço total: R$29.9
